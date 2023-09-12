@@ -16,6 +16,7 @@ Specs:
 Running the project:
   - The files of the project are in the drive link.
   - Copy the folder in your device and run the "Space_tut" .uproject file.
+  - NOTE: You need to have all the folders in a single folder where you are copying to run the project.
   - When the project opens in Unreal, open the Space level to see the project.
   - In order for VR preview, you need to have correct plugins enabled for your device (I have tested the project on Meta Quest 2).
   - Explore the vast galaxy and enjoy!
